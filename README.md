@@ -32,3 +32,4 @@ Kudaibergenova Asyl — Portfolio
 📫 Контакты
 LinkedIn:https://www.linkedin.com/in/asyl-kudaibergenova-505a62327/ 
 Email: asyl.kudaibergenova@alatoo.edu.kg
+[Посмотреть проект в Figma](https://www.figma.com/proto/1gzPJQLF0kI50xH39paQUh/poster-tour?node-id=72-4)
