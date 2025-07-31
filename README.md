@@ -24,7 +24,11 @@ Kudaibergenova Asyl — Portfolio
 Что такое [Brandbook](брендбукR.pdf)
 Практическое задание на Государственный [экзамен](брендбукгосы.pdf)
 [Постер](постеркиткат.pdf)
-
+[Видео](https://drive.google.com/file/d/1Bs2hStFzIyAGAYoFFvHL0yE9jzg4Fh8H/view?usp=sharing) презентация для игры, созданная в групповом проекте. 
+Digital competences [report](https://drive.google.com/file/d/1Xgas1cUcHYclF5-0DdbwG6AmGmdgyxOw/view?usp=sharing)
+[Упаковка](https://drive.google.com/file/d/1BdODFOfgFJtE2K7YkG0-mVM2D8zokBIB/view?usp=sharing) детского ночника.
+Логотип для [ALCHIKI](https://drive.google.com/file/d/1ICoQifaHdQeXGbxZQA9Z4ESzb0WUP8FQ/view?usp=sharing)
+[Каталог](https://drive.google.com/file/d/1XqmutVdKr48iafliYixKwxxVec8Xufqf/view?usp=sharing) парфюма.
 🌟 Достижения
 🧠 Участие в организации «Дня открытых дверей» в Ala-Too
 🛠️ Координатор поездки в Казахстан
