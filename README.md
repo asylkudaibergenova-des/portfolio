@@ -13,7 +13,7 @@
 Выпускница колледжа IT & Business College при Ala-Too International University, специальность — графический дизайн.  
 Владею инструментами: Figma, Tilda, Adobe Illustrator, Photoshop, Blender, Substance 3D Painter, InDesign, After Effects.  
 
-[Участница студсовета и волонтёрских проектов](itBUS.jpg)
+[Участница студсовета и волонтёрских проектов](itBUS.jpg)  
 
 ---
 
