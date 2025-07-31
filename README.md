@@ -31,20 +31,20 @@
 
 - Сайт по подбору репетиторов  
 -  [Посмотреть сайт](работагруппсайт.png)
-- [Moodboard](мудборд.pdf) — визуализация идей  
+- [Moodboard](мудборд.pdf) — создание визуала для структурирования идей   
 - [Logo](заданиелогошахматы.pdf) — логотип шахматной школы  
 - [Афиши и баннеры](постерыкконцертам.pdf)  
-- [Brandbook](брендбукR.pdf)  
+- [Brandbook](брендбукR.pdf) Что такое брендбук?
 - [Госэкзамен — брендбук](брендбукгосы.pdf)  
-- [Постер KitKat](постеркиткат.pdf)  
-- [Видео-презентация проекта](https://drive.google.com/file/d/1Bs2hStFzIyAGAYoFFvHL0yE9jzg4Fh8H/view?usp=sharing)  
+- [Постер KitKat](постеркиткат.pdf)  с акцентными словами
+- [Видео-презентация проекта](https://drive.google.com/file/d/1Bs2hStFzIyAGAYoFFvHL0yE9jzg4Fh8H/view?usp=sharing)  по созданию обучающей игры для детей
 - [Digital competences — отчёт](https://drive.google.com/file/d/1Xgas1cUcHYclF5-0DdbwG6AmGmdgyxOw/view?usp=sharing)  
 - [Упаковка](https://drive.google.com/file/d/1BdODFOfgFJtE2K7YkG0-mVM2D8zokBIB/view?usp=sharing) детского ночника  
 - [Логотип ALCHIKI](https://drive.google.com/file/d/1ICoQifaHdQeXGbxZQA9Z4ESzb0WUP8FQ/view?usp=sharing)  
 - [Каталог парфюма](https://drive.google.com/file/d/1XqmutVdKr48iafliYixKwxxVec8Xufqf/view?usp=sharing)  
 - Макет упаковки [мёда](https://drive.google.com/file/d/1USVyKMyD007KSAUnyyXr4mD8b0LRC0ry/view?usp=sharing) и [дизайн этикетки](https://drive.google.com/file/d/1q7EyPXrpmzZTeNouAxFNPtu37M6o8C7e/view?usp=sharing)  
 - Видео-рендер в [Blender](https://drive.google.com/file/d/16BQIUkQ1rFbQSUYs4lkDrMA-I73kC6q9/view?usp=sharing)  
-- Дизайн [1tai.pdf](1tai.pdf) и итог [taimotors.jpg](taimotors.jpg)
+- Дизайн декаротивного [номера](1tai.pdf) для автомобили и [итог](taimotors.jpg) при реализации
 
 ---
 
